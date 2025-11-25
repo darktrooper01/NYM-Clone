@@ -1,0 +1,84 @@
+.custom-nav{
+            height: 100px;
+        }
+.custom-nav .nav-link {
+    color: #000000;
+    font-family: monospace;
+   font-size: 1.2rem;
+    margin-left: 20px;
+    margin-right: 20px;
+
+ }
+.custom-nav .nav-link:hover {
+    color: #0d6e63; }
+
+    .custom-nav .navbar-brand:hover {
+    color: #0d6e63; }
+
+    .custom-nav .navbar-brand {
+    font-family: 'Times New Roman';
+    color: #002366;
+    margin-left: 40px;
+    }
+.custom-nav{
+    background-color:rgb(255, 255, 255);
+    color: #002366;
+    }
+
+
+    .custom-hero{
+    font-family: 'Times New Roman';
+    margin-left: 50px;
+    margin-top: 75px;
+    font-weight: bold;
+}
+.custom-hero2{
+    font-family: 'Times New Roman';
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.custom-btn2{
+    color: rgb(0, 0, 0);
+    background-color: #89D2FF;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 50px;
+    border: none;
+    width: 190px;
+    margin-top: 25px;
+    font-family: monospace;
+}
+
+.custom-btn3{
+    color: #000000;
+    background-color: #ffffff;
+    border: 1px solid #89D2FF;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 50px;
+    
+    width: 190px;
+    margin-top: 25px;
+    font-family: monospace;
+}
+
+.custom-btn2:hover{
+    background-color: #003399;
+    color: white;
+}
+
+.custom-btn3:hover{
+    background-color: #003399;
+    color: white;
+}
+
+
+#carouselExampleAutoplaying{
+    margin-top: -300px;
+     max-width: 400px;
+     max-height: 320px;
+  margin-left: 800px; 
+  border-radius: 15px;
+  overflow: hidden;
+}
